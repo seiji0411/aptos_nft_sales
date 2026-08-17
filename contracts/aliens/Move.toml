@@ -1,0 +1,12 @@
+[package]
+name = "aptos_aliens"
+version = "1.0.0"
+
+[addresses]
+aliens = "0xbc134eab7e8ffc402f6ff0d035409f542886a4ae4ce67a290b2ee04a12dfefa1"
+
+[dev-addresses]
+aliens = "0xbc134eab7e8ffc402f6ff0d035409f542886a4ae4ce67a290b2ee04a12dfefa1"
+
+[dependencies]
+AptosToken = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-token/", rev = "aptos-cli-v3.0.1" }

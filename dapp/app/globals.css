@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-container {
+    overflow: auto;
+    max-height: 100vh;
+}
+
+.main-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: url(../public/stars-bg.webp) repeat-y;
+    opacity: 0.1;
+    z-index: -1;
+}
+
+body {
+    background-color: #161616;
+}
+
+.faq-btn:hover {
+    .faq-text {
+        color: #2cd4a0;
+    }
+}
+
+.referral-box {
+    width: 100%;
+    background: url(../public/referral-program.webp) repeat;
+}

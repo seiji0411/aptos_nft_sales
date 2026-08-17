@@ -1,0 +1,304 @@
+{
+  "collections":[
+    {
+      "collection_address": "0xae2b2a28f89a0c032e1c1dc7c767d0bf70c26e2f5c3506639c07c5e90a0e8f5d",
+      "collection_name": "Aptos Alien #1",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/05d6ba49-f837-4ed7-90b8-8a9927fea4bc.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/1.json"
+    },
+    {
+      "collection_address": "0xaefb47f21e6405c9c69c69db08d8d61656c1e1455421702861d4566ae287d311",
+      "collection_name": "Aptos Alien #2",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/1c420f29-4a91-4c05-8bd2-e441bf995bda.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/2.json"
+    },
+    {
+      "collection_address": "0xae13e66d7a8627d640439519c1141b9e0a53159e6fa52e4a25489c368231c2ec",
+      "collection_name": "Aptos Alien #3",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/1ea2e8df-cb4e-4c0e-a486-903c70952ef4.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/3.json"
+    },
+    {
+      "collection_address": "0xae1eae338801e6ad657f050461840f40e836ffe69f1bdf588020a365999bb457",
+      "collection_name": "Aptos Alien #4",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/1f53fb3b-4db4-47a9-bcdf-a2f37404bf94.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/4.json"
+    },
+    {
+      "collection_address": "0xae0c04d01c2cf57c37a0a98417e1beb22fb5dcd466a7f1d97c19b537636a7786",
+      "collection_name": "Aptos Alien #5",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/22809033-5868-48f0-80cd-8c313baf34b6.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/5.json"
+    },
+    {
+      "collection_address": "0xae625bf12c5e750aadef7cf6cc93501bdcd2bb09d2b450c8b579f24a3952e2d2",
+      "collection_name": "Aptos Alien #6",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/228bd13e-6b2c-4adc-9b2a-0036ccfdeee2.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/6.json"
+    },
+    {
+      "collection_address": "0xaeb4cea7203a97b0ddf770c407e502ce7603e32da86f5edad103748308968761",
+      "collection_name": "Aptos Alien #7",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/29d6cbec-4b71-4d95-8942-3d1929dc94c9.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/7.json"
+    },
+    {
+      "collection_address": "0xae3a448d47fae19ba9753e19c7d829e4d5e14ef781b39f2f0772b884199fda1a",
+      "collection_name": "Aptos Alien #8",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/2e6c9006-67e0-4099-91bb-65a43a8eea7c.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/8.json"
+    },
+    {
+      "collection_address": "0xae93eedfa27e1cec0105b467733015fd7753565bf8692c3693839a48bb0614ef",
+      "collection_name": "Aptos Alien #9",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/30b809ec-5bda-4e1c-9b04-ec78d7b10164.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/9.json"
+    },
+    {
+      "collection_address": "0xaea3e9b325c77656fa1b6bbb9b42ceec6e828fbb38ad40be99c209d99dacf088",
+      "collection_name": "Aptos Alien #10",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/31971b64-1754-4049-b141-7253b40e643a.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/10.json"
+    },
+    {
+      "collection_address": "0xae2ecce6b0d1257576524c726da3814d37223e89e2afc20bcfb894c8d3e08962",
+      "collection_name": "Aptos Alien #11",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/33aaee28-dbb8-483b-9315-d34e9ac69420.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/11.json"
+    },
+    {
+      "collection_address": "0xae4e86d77a56235354c004a3ffb186a14af0d666c079135c572f990a4e2f6fbb",
+      "collection_name": "Aptos Alien #12",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/370fb982-fd15-48b3-ae01-b26260d9a061.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/12.json"
+    },
+    {
+      "collection_address": "0xaeed30c2f4d7bb63509ddd453e8caabe439668aedb24ed24462f6df30729094a",
+      "collection_name": "Aptos Alien #13",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/3ba4047c-b64d-4cac-a29d-3e98234b9314.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/13.json"
+    },
+    {
+      "collection_address": "0xae05d1609c14e13b8d66956c57462657d7d4dd28af43d9a2b1190c67da66c16f",
+      "collection_name": "Aptos Alien #14",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/3f1cc49a-f324-4de8-b1af-5023121125f9.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/14.json"
+    },
+    {
+      "collection_address": "0xae4b17c6047d2a034eb97df75b5dd01c5909586d88e2e4a4ed87b1531a41b962",
+      "collection_name": "Aptos Alien #15",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/44d7f9bf-88cf-426b-ae90-e72ea997a59a.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/15.json"
+    },
+    {
+      "collection_address": "0xaee6d6ffaa9fe56ef94f8680bd64231e0ec71de8ce0750a581281bd021ab0358",
+      "collection_name": "Aptos Alien #16",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/4d44b97b-1502-4a11-bd5b-2f043463dc30.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/16.json"
+    },
+    {
+      "collection_address": "0xaef67afb691666e64d7dec6f537e08244e391bd2df9b61e1413dd4dd0cfffa7a",
+      "collection_name": "Aptos Alien #17",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/4fc27195-b6c3-496f-ad46-7827035c67de.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/17.json"
+    },
+    {
+      "collection_address": "0xae0ace908466481f2a2e0b0a872bc08f79e8a3cc6a44bd05d837a5ce44b7508a",
+      "collection_name": "Aptos Alien #18",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/53857bd2-c7c8-40a4-8ea6-23bbeae0332b.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/18.json"
+    },
+    {
+      "collection_address": "0xae4e27eaf1c39786a46bf3a9c8ab3efb327c7b6f3ba336a14997721c18e466da",
+      "collection_name": "Aptos Alien #19",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/591ef638-f418-4dcd-a3da-7cfbc2512a75.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/19.json"
+    },
+    {
+      "collection_address": "0xae9eccf141024c2e2da3d58c36973a991f2c9f3151c954818cde4bbb07a6fecc",
+      "collection_name": "Aptos Alien #20",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/59759179-255b-4674-855d-0f974321efcc.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/20.json"
+    },
+    {
+      "collection_address": "0xae5ea2bb6459300805b07930a007fad126da42dfae51cdc4404a2dd152c68d91",
+      "collection_name": "Aptos Alien #21",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/59bbf2de-5038-47da-9342-537f21369b06.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/21.json"
+    },
+    {
+      "collection_address": "0xae9d265d58ff7f715a370417d0676e5a27c7b1e92851c6ae4db4c909e695a0ed",
+      "collection_name": "Aptos Alien #22",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/5ea2f193-5489-47b0-87d6-bf4c806ab679.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/22.json"
+    },
+    {
+      "collection_address": "0xaebb4749b717b703c24f1d21f80eac8cdd1865883af831c5636c2864e71f74f1",
+      "collection_name": "Aptos Alien #23",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/67aa1532-bae0-4f97-afbf-8075f9f65b75.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/23.json"
+    },
+    {
+      "collection_address": "0xae83fddaf1ed380db5dee97c60b87313e3506a472c8538025c1a15f8d63f98ba",
+      "collection_name": "Aptos Alien #24",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/6da7fe0f-a980-4732-b247-0f53505bc556.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/24.json"
+    },
+    {
+      "collection_address": "0xaed038690e154d07bf470db7bcb38870a3dc0fc00f30a7ec1ecef3cfce386e81",
+      "collection_name": "Aptos Alien #25",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/6f273a24-a6c4-4720-8d73-7d106a078156.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/25.json"
+    },
+    {
+      "collection_address": "0xae22320ab4347685b3104824111be0d8fb1664a91b7f14f0f869624a88e759e5",
+      "collection_name": "Aptos Alien #26",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/8f7d9315-4827-4f60-9389-7553d44e87a6.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/26.json"
+    },
+    {
+      "collection_address": "0xae570f4a6b91718850c83c06efca74451c2d5915b85b659278b1289fc8450b87",
+      "collection_name": "Aptos Alien #27",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/96f61ca6-e8ed-479e-bc44-068e59525ecf.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/27.json"
+    },
+    {
+      "collection_address": "0xaea413de78544f674c1adc753c70e94b41ea2d8265c9498ea8d5c5c32a72732a",
+      "collection_name": "Aptos Alien #28",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/9eac592a-d2cd-414c-afdb-34352fa4d958.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/28.json"
+    },
+    {
+      "collection_address": "0xae40331115ab1f0d39b53bf0b842c01c41041e3f5bc6dd47ee10ff29f92f08f3",
+      "collection_name": "Aptos Alien #29",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/a55aaaa7-7c9a-49d8-acc1-537ede6777af.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/29.json"
+    },
+    {
+      "collection_address": "0xaebe7f56458c90d27363d835a4b774110ce9a923dc4b59c9cffa2d4b30d97f39",
+      "collection_name": "Aptos Alien #30",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/a630aeca-7d7d-4ced-854b-3ea9eb6f3bc7.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/30.json"
+    },
+    {
+      "collection_address": "0xaed623b5a95ba96fccf58fa73c071380d01a5dd92cd1bb118e918af8783d1eee",
+      "collection_name": "Aptos Alien #31",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/acfd822b-e520-4fb5-8598-adccb8981d59.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/31.json"
+    },
+    {
+      "collection_address": "0xae10c24d186001337469d819fec01522abb67c9ec748b421b2eaf81962abb47c",
+      "collection_name": "Aptos Alien #32",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/ad2ecbc2-cfd6-4148-a57e-fa1e338d4f18.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/32.json"
+    },
+    {
+      "collection_address": "0xaee02e45a46215ced86c3f92f9b0846ac73b41a70f76fffeb497bc9576bbe5cd",
+      "collection_name": "Aptos Alien #33",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/af531390-3277-4c6f-9be5-22f25f0c45f1.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/33.json"
+    },
+    {
+      "collection_address": "0xae3e5362d7d473ad2b8ad5d0d299e71b4b29cf457a1e41bcbe3a2dfe94c440e",
+      "collection_name": "Aptos Alien #34",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/b1bfa86a-84a5-45fa-89e8-eef8fbdaee8a.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/34.json"
+    },
+    {
+      "collection_address": "0xaeac1b344500be4da7f4010355d03c0eb1ef5f3911c77b31a22d72336077160a",
+      "collection_name": "Aptos Alien #35",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/b519b942-d108-4b4f-8bc1-beefc0b674c8.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/35.json"
+    },
+    {
+      "collection_address": "0xae00f795872bab2e0d8ba27e28b1df31a525185ba8aea4ca7cba44703a899b99",
+      "collection_name": "Aptos Alien #36",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/b5f67186-58ec-4f4e-9ef2-eda8805eb831.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/36.json"
+    },
+    {
+      "collection_address": "0xae982ad78c94d69ea0764d55fe69db0e1f392fbceb02cc516fa50e8810c09e36",
+      "collection_name": "Aptos Alien #37",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/b8d8a65f-a809-4d20-a5b1-145b0e9f2b1f.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/37.json"
+    },
+    {
+      "collection_address": "0xae1cdc2d762fbbe6e3f5c74ee2b6a24ad7f06fa12b7cefd82219abd93403ee51",
+      "collection_name": "Aptos Alien #38",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/ba5fa90a-eafd-4034-9aa1-e7f2449d26e7.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/38.json"
+    },
+    {
+      "collection_address": "0xaef5716a767cdb2dc255be03fca67e4bc1afb68ef527d027574cb474f36ada1a",
+      "collection_name": "Aptos Alien #39",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/bc177ebf-0973-4e8f-af26-949ce0ed0b4d.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/39.json"
+    },
+    {
+      "collection_address": "0xae5dcb9eefc3c95c6ba2737e215f1fcaa97d8d9d959866f7646239c9798555a5",
+      "collection_name": "Aptos Alien #40",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/c0048e27-bef7-4c56-8d47-84c7d023343c.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/40.json"
+    },
+    {
+      "collection_address": "0xae19ae786b2815c7740ebf958a90f56677a5f640ccbe8c72420b48ca67c20ba2",
+      "collection_name": "Aptos Alien #41",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/c27da708-1d2c-4cea-93db-740498eef68b.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/41.json"
+    },
+    {
+      "collection_address": "0xae4640cbacb03f6de4579d39a7677f91207627215455ed0d8bd807a680ac9354",
+      "collection_name": "Aptos Alien #42",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/ca8ad907-0ec0-4dc3-b242-bd14eb096468.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/42.json"
+    },
+    {
+      "collection_address": "0xaec89845e05a4fe52aca5c33cc0ce63fd329309c0367bd05b519ba02e4f476db",
+      "collection_name": "Aptos Alien #43",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/d2be198d-bfc9-43d5-839d-774bcdfd53b0.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/43.json"
+    },
+    {
+      "collection_address": "0xae0f3a5cd694a554c6a12175cd77a9c26ca2db7a9aa67c7623a5da3b948e6ac8",
+      "collection_name": "Aptos Alien #44",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/d7f5c4db-08fd-45c2-ba10-7c63c9838e20.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/44.json"
+    },
+    {
+      "collection_address": "0xae096bf8898fb5565d45e80aff164b3b0685a983a333e3c17dc2e3060712cbad",
+      "collection_name": "Aptos Alien #45",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/d90be1df-5846-4c58-bfe9-00a435fa8663.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/45.json"
+    },
+    {
+      "collection_address": "0xae19468ed4d530eeb53dc55ad1a6b7418507a172b6a971863a174c741ccff386",
+      "collection_name": "Aptos Alien #46",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/df2e805b-d4aa-45ab-a78d-e9c8e40fcf33.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/46.json"
+    },
+    {
+      "collection_address": "0xae8a7c1ea47c68c75a034ef9de9459476104dcdb4513f74faee920395693e97a",
+      "collection_name": "Aptos Alien #47",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/e14b313b-1bae-4081-a1ff-e6da88fed088.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/47.json"
+    },
+    {
+      "collection_address": "0xaedbac0023191f906229ce84fb651a2f631e61bd9e82d5db16fc4229f04a7e7d",
+      "collection_name": "Aptos Alien #48",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/e46f39dc-9c7f-49bb-9029-13be611843c0.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/48.json"
+    },
+    {
+      "collection_address": "0xaea91d379ea80cc5b0e7dc3d5aca61e92c3c5c32863ab992f743622110880d43",
+      "collection_name": "Aptos Alien #49",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/e802a1df-c77e-48e5-99ae-3a50038be893.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/49.json"
+    },
+    {
+      "collection_address": "0xae2752e0f7c7c5033a1c75b48c8f298204dc04fcca3765974e771984fd78d458",
+      "collection_name": "Aptos Alien #50",
+      "collection_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmPcmPrZuMakQCnzAEH7tN5QcjbEqeEW2ZDBLoUqoBAQNy/ee48f11c-33a5-48c8-965d-4e08f3342e6a.png",
+      "base_uri": "https://indigo-cheap-crane-165.mypinata.cloud/ipfs/QmZr6XarduacJzND3un7YKEvnShHfzr5Wet7gYPWayWjwZ/50.json"
+    }
+  ]
+}

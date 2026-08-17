@@ -1,0 +1,12 @@
+{
+  "NODE_URL":"https://fullnode.devnet.aptoslabs.com",
+  "creator_private_key":"",
+  "collection_name": "NFT Collection Name",
+  "collection_description": "NFT Collection Description",
+  "collection_uri": "https://mokshya.io",
+  "public_sale_mint_price": "2000",
+  "total_supply": "1000000",
+  "mutable":"true",
+  "resource_account":"",
+  "referral_fee": "2000"
+}

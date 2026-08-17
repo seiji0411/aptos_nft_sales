@@ -1,0 +1,11 @@
+[package]
+name = "aptos_aliens_collection"
+version = "1.0.0"
+
+[addresses]
+collection = "_"
+aliens = "_"
+
+[dependencies]
+AptosToken = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-token/", rev = "aptos-cli-v3.0.1" }
+aptos_aliens = { local = "../aliens" }
