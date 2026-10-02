@@ -1,5 +1,5 @@
 # Aptos Aliens
-NFT minting dapp on Aptos blockchain
+NFT minting dapp on Aptos blockchain ([www.alienharvesters.com](https://www.alienharvesters.com))
 
 ## Deploy smart contracts
 - deploy core contract
